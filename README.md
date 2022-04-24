@@ -1,7 +1,7 @@
 # Cancer-prediction-using-a-neural-network-model
 
 Breast cancer prediction using Deep Nueral Network
-Predictive model - Deep Nueral Network using Tensor Flow
+
 
 Background
 Breast cancer is a type of cancer with high mortality rates among women, and it is one of the most common causes of death in women.
